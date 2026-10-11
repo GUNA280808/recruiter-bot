@@ -1,0 +1,24 @@
+
+# Python virtual environment
+.venv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Local SQLite database
+recruiter.db
+recruiter.db-journal
+recruiter.db-shm
+recruiter.db-wal
+
+# Environment variables and secrets
+.env
+
+# VS Code settings
+.vscode/
+
+# Test artifacts
+.pytest_cache/
+.coverage
+htmlcov/
